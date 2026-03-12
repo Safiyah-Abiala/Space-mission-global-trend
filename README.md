@@ -9,9 +9,10 @@ This project analyzes global space missions using an interactive **Power BI dash
 The raw dataset required significant preparation before it could be used for visualization. Below is a comparison of the data **before** and **after** the cleaning process in Power Query.
 
 ### 🔍 Data Cleaning: Before vs. After
-| Before Cleaning | After Cleaning |
-| :--- | :--- |
-| ![Before Cleaning](Screenshot 2026-02-22 112606.png) | ![After Cleaning](Screenshot 2026-02-22 112635.png) |
+| Before Cleaning |
+| ![Before Cleaning](Screenshot 2026-02-22 112606.png) |
+| After Cleaning |
+|![After Cleaning](Screenshot 2026-02-22 112635.png) |
 
 **Key Challenges & Solutions:**
 * **Messy Location Strings:** Launch sites were stored as single strings (Site, Base, State, Country). I used **Split Column by Delimiter** in Power Query to isolate the **Country** for geographical analysis.
