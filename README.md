@@ -180,13 +180,4 @@ From the analysis, several patterns emerge:
 **Ms_Safiyah**
 Data analysis project created using **Power BI** to explore historical space mission data and visualize global space activity.
 
----
 
-
-
-Success Rate = 
-DIVIDE(
-    CALCULATE(COUNTROWS('Space Missions'), 'Space Missions'[MissionStatus] = "Success"),
-    COUNTROWS('Space Missions'),
-    0
-)
