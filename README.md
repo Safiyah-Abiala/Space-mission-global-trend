@@ -23,7 +23,7 @@ The raw dataset required significant preparation before it could be used for vis
 ---
 
 ## 📊 Dashboard Insights
-### ![Space Mission Dashboard](images/dashboard_main.png)
+### ![Space Mission Dashboard](Screenshot 2026-02-21 080609.png)
 
 ### 1️⃣ Rocket Launch Over Time
 * **Insight:** Launch activity surged during the 1960s Space Race, peaked again in the early 1970s (1973 saw **96 successes**), and is currently experiencing a modern "Renaissance" driven by private space companies.
