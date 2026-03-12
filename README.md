@@ -43,6 +43,7 @@ The raw dataset required significant preparation before it could be used for vis
 ### 🔍 Data Cleaning: Before vs. After
 **Before Cleaning**
 ![Before Cleaning](Screenshot 2026-02-22 112606.png)
+
 **After Cleaning** 
 ![After Cleaning](Screenshot 2026-02-22 112635.png)
 
