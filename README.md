@@ -22,6 +22,7 @@ The dashboard transforms historical mission data into visual insights that highl
 - Data visualization
 - Data transformation
 - Analytical storytelling
+
 ---
 
 # 🧠 Skills Demonstrated
