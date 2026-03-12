@@ -42,9 +42,9 @@ The raw dataset required significant preparation before it could be used for vis
 
 ### 🔍 Data Cleaning: Before vs. After
 **Before Cleaning**
-[Before Cleaning](Screenshot 2026-02-22 112606.png)
+![Before Cleaning](Screenshot 2026-02-22 112606.png)
 **After Cleaning** 
-[After Cleaning](Screenshot 2026-02-22 112635.png)
+![After Cleaning](Screenshot 2026-02-22 112635.png)
 
 **Key Challenges & Solutions:**
 * **Messy Location Strings:** Launch sites were stored as single strings (Site, Base, State, Country). I used **Split Column by Delimiter** in Power Query to isolate the **Country** for geographical analysis.
