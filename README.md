@@ -126,8 +126,8 @@ This bar chart compares the **number of successful missions by country**.
 #### Insights
 
 - **Russia and the USA lead global space missions**, reflecting their long history in space exploration.
-- Kazakhstan appears prominently due to **launch facilities such as Baikonur Cosmodrome**.
-- China has grown rapidly in recent decades and is becoming a **major space power**.
+- Kazakhstan appears prominently.
+- China has grown rapidly in recent decades.
 
 ---
 
@@ -152,19 +152,13 @@ Mission categories include:
 
 ### 6️⃣ Launch Locations
 
-This horizontal bar chart shows the **number of launches by location**.
+This bar chart shows the **number of launches by location**.
 
 #### Insights
 
 - The **USA and Russia host the largest number of launch sites**.
 - Kazakhstan is also a major launch hub due to the **Baikonur Cosmodrome**, one of the world's most historic launch facilities.
 - Other countries such as China, France, and Japan also contribute to global launch activity.
-
----
-
-
-
-
 
 ---
 
@@ -186,25 +180,7 @@ From the analysis, several patterns emerge:
 **Ms_Safiyah**
 Data analysis project created using **Power BI** to explore historical space mission data and visualize global space activity.
 
-
-### 1️⃣ Rocket Launch Over Time
-* **Insight:** Launch activity surged during the 1960s Space Race, peaked again in the early 1970s (1973 saw **96 successes**), and is currently experiencing a modern "Renaissance" driven by private space companies.
-
-### 2️⃣ Mission Outcome Distribution
-* **Metric:** Approximately **89.89% (4.16K)** of all recorded missions were successful.
-* **Analysis:** The high success rate reflects massive improvements in aerospace engineering, though the **7.71% failure rate** highlights the inherent risks of space exploration.
-
-### 3️⃣ Reliability & Leadership
-* **Most Used Rocket:** The **Cosmos-3M** leads with **446 launches**, demonstrating incredible long-term operational reliability.
-* **Top Countries:** While the **USA and Russia** dominate historical totals, **China** shows the most aggressive growth in successful missions in recent decades.
-
 ---
-
-
-
----
-
-# 📊 Dashboard Features
 
 
 
